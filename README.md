@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andre
-- 👀 I’m interested in Mechanical Engineering and History 
+- 👀 I’m interested in engineering, finance, and history 
 - 🌱 I’m currently learning how to model an SAE wheel hub on ANSYS 
 - ⚡ Fun fact: I'm based in Chicago
 
